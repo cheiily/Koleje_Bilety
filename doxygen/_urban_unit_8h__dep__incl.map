@@ -1,0 +1,8 @@
+<map id="/home/student/POBI/repo/project/library/include/UnitHierarchy/UrbanUnit.h" name="/home/student/POBI/repo/project/library/include/UnitHierarchy/UrbanUnit.h">
+<area shape="rect" id="node2" href="$_railbus_8h.html" title="/home/student/POBI\l/repo/project/library\l/include/UnitHierarchy\l/Railbus.h" alt="" coords="172,124,323,195"/>
+<area shape="rect" id="node5" href="$_tram_8h.html" title="/home/student/POBI\l/repo/project/library\l/include/UnitHierarchy\l/Tram.h" alt="" coords="347,124,497,195"/>
+<area shape="rect" id="node7" href="$_urban_unit_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/UnitHierarchy/UrbanUnit.cpp" alt="" coords="522,131,738,187"/>
+<area shape="rect" id="node3" href="$_unit_manager_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/Managers/UnitManager.cpp" alt="" coords="231,243,439,299"/>
+<area shape="rect" id="node4" href="$_railbus_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/UnitHierarchy/Railbus.cpp" alt="" coords="5,243,207,299"/>
+<area shape="rect" id="node6" href="$_tram_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/UnitHierarchy/Tram.cpp" alt="" coords="463,243,650,299"/>
+</map>

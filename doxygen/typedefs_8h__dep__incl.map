@@ -1,0 +1,21 @@
+<map id="/home/student/POBI/repo/project/library/include/typedefs.h" name="/home/student/POBI/repo/project/library/include/typedefs.h">
+<area shape="rect" id="node2" href="$_line_8h.html" title="/home/student/POBI\l/repo/project/library\l/include/Model/Line.h" alt="" coords="381,117,527,173"/>
+<area shape="rect" id="node8" href="$_ticket_8h.html" title="/home/student/POBI\l/repo/project/library\l/include/Model/Ticket.h" alt="" coords="23,235,181,291"/>
+<area shape="rect" id="node12" href="$_ticket_repository_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/Repositories/TicketRepository.cpp" alt="" coords="21,465,271,521"/>
+<area shape="rect" id="node14" href="$_transit_8h.html" title="/home/student/POBI\l/repo/project/library\l/include/Model/Transit.h" alt="" coords="196,117,357,173"/>
+<area shape="rect" id="node16" href="$_repository_8h.html" title="/home/student/POBI\l/repo/project/library\l/include/Repositories\l/Repository.h" alt="" coords="706,109,850,180"/>
+<area shape="rect" id="node20" href="$_unit_reposotory_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/Repositories/UnitReposotory.cpp" alt="" coords="1203,354,1444,410"/>
+<area shape="rect" id="node3" href="$_line_reposotory_8h.html" title="/home/student/POBI\l/repo/project/library\l/include/Repositories\l/LineReposotory.h" alt="" coords="597,228,741,299"/>
+<area shape="rect" id="node7" href="$_line_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/Model/Line.cpp" alt="" coords="381,235,522,291"/>
+<area shape="rect" id="node4" href="$_line_manager_8h.html" title="/home/student/POBI\l/repo/project/library\l/include/Managers/LineManager.h" alt="" coords="720,354,937,410"/>
+<area shape="rect" id="node6" href="$_line_reposotory_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/Repositories/LineReposotory.cpp" alt="" coords="403,354,644,410"/>
+<area shape="rect" id="node5" href="$_line_manager_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/Managers/LineManager.cpp" alt="" coords="725,465,933,521"/>
+<area shape="rect" id="node9" href="$_ticket_repository_8h.html" title="/home/student/POBI\l/repo/project/library\l/include/Repositories\l/TicketRepository.h" alt="" coords="221,347,365,417"/>
+<area shape="rect" id="node13" href="$_ticket_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/Model/Ticket.cpp" alt="" coords="28,354,176,410"/>
+<area shape="rect" id="node10" href="$_ticket_manager_8h.html" title="/home/student/POBI\l/repo/project/library\l/include/Managers/TicketManager.h" alt="" coords="323,465,553,521"/>
+<area shape="rect" id="node11" href="$_ticket_manager_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/Managers/TicketManager.cpp" alt="" coords="328,569,548,625"/>
+<area shape="rect" id="node15" href="$_transit_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/Model/Transit.cpp" alt="" coords="205,235,357,291"/>
+<area shape="rect" id="node17" href="$_unit_manager_8h.html" title="/home/student/POBI\l/repo/project/library\l/include/Managers/UnitManager.h" alt="" coords="961,354,1179,410"/>
+<area shape="rect" id="node19" href="$_unit_repository_8h.html" title="/home/student/POBI\l/repo/project/library\l/include/Repositories\l/UnitRepository.h" alt="" coords="998,228,1142,299"/>
+<area shape="rect" id="node18" href="$_unit_manager_8cpp.html" title="/home/student/POBI\l/repo/project/library\l/src/Managers/UnitManager.cpp" alt="" coords="966,465,1174,521"/>
+</map>

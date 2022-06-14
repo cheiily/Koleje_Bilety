@@ -1,0 +1,6 @@
+<map id="Express" name="Express">
+<area shape="rect" id="node4" href="$class_diesel_express.html" title="DieselExpress" alt="" coords="5,229,112,256"/>
+<area shape="rect" id="node5" href="$class_electric_express.html" title="ElectricExpress" alt="" coords="136,229,251,256"/>
+<area shape="rect" id="node2" href="$class_intercity_unit.html" title="IntercityUnit" alt="" coords="79,80,172,107"/>
+<area shape="rect" id="node3" href="$class_passenger_unit.html" title="PassengerUnit" alt="" coords="71,5,179,32"/>
+</map>

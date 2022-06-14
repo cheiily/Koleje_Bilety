@@ -1,0 +1,16 @@
+//
+// Created by student on 28.05.2022.
+//
+
+#ifndef KOLEJEBILETY_VALIDATIONSTATE_H
+#define KOLEJEBILETY_VALIDATIONSTATE_H
+
+
+enum ValidationState {
+    ISSUED,
+    VALIDATED,
+    RETURNED,
+    ANULLED
+};
+
+#endif //KOLEJEBILETY_VALIDATIONSTATE_H

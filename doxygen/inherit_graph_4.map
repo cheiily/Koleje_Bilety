@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_passenger_unit.html" title="PassengerUnit" alt="" coords="5,81,113,108"/>
+<area shape="rect" id="node2" href="$class_intercity_unit.html" title="IntercityUnit" alt="" coords="161,56,255,83"/>
+<area shape="rect" id="node7" href="$class_urban_unit.html" title="UrbanUnit" alt="" coords="167,107,249,133"/>
+<area shape="rect" id="node3" href="$class_electric_multiple_unit.html" title="ElectricMultipleUnit" alt="" coords="303,5,437,32"/>
+<area shape="rect" id="node4" href="$class_express.html" title="Express" alt="" coords="335,56,405,83"/>
+<area shape="rect" id="node5" href="$class_diesel_express.html" title="DieselExpress" alt="" coords="489,31,596,57"/>
+<area shape="rect" id="node6" href="$class_electric_express.html" title="ElectricExpress" alt="" coords="485,81,600,108"/>
+<area shape="rect" id="node8" href="$class_railbus.html" title="Railbus" alt="" coords="337,107,403,133"/>
+<area shape="rect" id="node9" href="$class_tram.html" title="Tram" alt="" coords="344,157,396,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="PassengerUnit" name="PassengerUnit">
+<area shape="rect" id="node2" href="$class_intercity_unit.html" title="IntercityUnit" alt="" coords="147,80,241,107"/>
+<area shape="rect" id="node7" href="$class_urban_unit.html" title="UrbanUnit" alt="" coords="265,80,347,107"/>
+<area shape="rect" id="node3" href="$class_electric_multiple_unit.html" title="ElectricMultipleUnit" alt="" coords="5,155,140,181"/>
+<area shape="rect" id="node4" href="$class_express.html" title="Express" alt="" coords="164,155,235,181"/>
+<area shape="rect" id="node5" href="$class_diesel_express.html" title="DieselExpress" alt="" coords="79,229,186,256"/>
+<area shape="rect" id="node6" href="$class_electric_express.html" title="ElectricExpress" alt="" coords="210,229,325,256"/>
+<area shape="rect" id="node8" href="$class_railbus.html" title="Railbus" alt="" coords="269,155,335,181"/>
+<area shape="rect" id="node9" href="$class_tram.html" title="Tram" alt="" coords="360,155,412,181"/>
+</map>

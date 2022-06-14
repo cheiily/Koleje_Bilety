@@ -1,0 +1,5 @@
+<map id="UrbanUnit" name="UrbanUnit">
+<area shape="rect" id="node3" href="$class_railbus.html" title="Railbus" alt="" coords="5,155,72,181"/>
+<area shape="rect" id="node4" href="$class_tram.html" title="Tram" alt="" coords="97,155,149,181"/>
+<area shape="rect" id="node2" href="$class_passenger_unit.html" title="PassengerUnit" alt="" coords="26,5,134,32"/>
+</map>

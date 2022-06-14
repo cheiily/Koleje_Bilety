@@ -1,0 +1,7 @@
+<map id="IntercityUnit" name="IntercityUnit">
+<area shape="rect" id="node3" href="$class_electric_multiple_unit.html" title="ElectricMultipleUnit" alt="" coords="5,155,140,181"/>
+<area shape="rect" id="node4" href="$class_express.html" title="Express" alt="" coords="164,155,235,181"/>
+<area shape="rect" id="node2" href="$class_passenger_unit.html" title="PassengerUnit" alt="" coords="81,5,189,32"/>
+<area shape="rect" id="node5" href="$class_diesel_express.html" title="DieselExpress" alt="" coords="78,229,185,256"/>
+<area shape="rect" id="node6" href="$class_electric_express.html" title="ElectricExpress" alt="" coords="209,229,323,256"/>
+</map>

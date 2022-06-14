@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_generic_exception.html" title="GenericException\&lt; CStrMacro \&gt;" alt="" coords="136,31,348,57"/>
+<area shape="rect" id="node3" href="$class_generic_exception.html" title="GenericException\&lt;\&gt;" alt="" coords="171,81,313,108"/>
+<area shape="rect" id="node4" href="$class_collection_mismatch_exception.html" title="CollectionMismatchException" alt="" coords="396,5,591,32"/>
+<area shape="rect" id="node5" href="$class_empty_string_exception.html" title="EmptyStringException" alt="" coords="417,56,569,83"/>
+<area shape="rect" id="node6" href="$class_negative_numeric_exception.html" title="NegativeNumericException" alt="" coords="403,107,584,133"/>
+<area shape="rect" id="node7" href="$class_null_pointer_exception.html" title="NullPointerException" alt="" coords="421,157,565,184"/>
+</map>

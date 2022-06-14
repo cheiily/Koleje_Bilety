@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_ticket_type.html" title="TicketType" alt="" coords="5,107,92,133"/>
+<area shape="rect" id="node2" href="$class_child.html" title="Child" alt="" coords="147,5,199,32"/>
+<area shape="rect" id="node3" href="$class_default.html" title="Default" alt="" coords="141,56,205,83"/>
+<area shape="rect" id="node4" href="$class_other.html" title="Other" alt="" coords="146,107,201,133"/>
+<area shape="rect" id="node5" href="$class_student.html" title="Student" alt="" coords="140,157,207,184"/>
+<area shape="rect" id="node6" href="$class_veteran.html" title="Veteran" alt="" coords="140,208,207,235"/>
+</map>
